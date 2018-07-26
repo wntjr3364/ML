@@ -6,12 +6,22 @@ Organize Machine Learning<br>
 * [Deep learning bookmark](https://github.com/bbongcol/deep-learning-bookmarks)
 ```console
 cat machine.txt
+less machine.txt
 for i in {1..10};
 do
   echo $i;
 done
 ```
 ```shell
+less machine.txt
+cat machine.txt
+for i in {1..10};
+do
+  echo $i;
+done
+```
+```bash
+less machine.txt
 cat machine.txt
 for i in {1..10};
 do
