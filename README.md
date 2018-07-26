@@ -10,7 +10,7 @@ for i in {1..10};
 do
   echo $i;
 done
-```javascript
+```js
 var name = "zzz"
 for(var i=0; i<10; i++){
   console.log(i)
