@@ -5,5 +5,19 @@ Organize Machine Learning<br>
 * [Python code for coursera lecture of Andrew Ng](https://github.com/JWarmenhoven/Coursera-Machine-Learning)
 * [Deep learning bookmark](https://github.com/bbongcol/deep-learning-bookmarks)
 ```console
-cat less goood
+cat machine.txt
+for i in {1..10};
+do
+  echo $i;
+done
+```javascript
+var name = "zzz"
+for(var i=0; i<10; i++){
+  console.log(i)
+}
+```
+```python
+name = "zzz"
+for i in range(10):
+  print(i)
 ```
