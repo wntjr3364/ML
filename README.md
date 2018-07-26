@@ -11,6 +11,13 @@ do
   echo $i;
 done
 ```
+```shell
+cat machine.txt
+for i in {1..10};
+do
+  echo $i;
+done
+```
 ```javascript
 var name = "zzz"
 for(var i=0; i<10; i++){
