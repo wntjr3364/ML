@@ -47,3 +47,12 @@ name = "zzz"
 for i in range(10):
   print(i)
 ```
+
+```mermaid
+graph BT
+A[Hard edge] -->B(Round edge)
+style A fill:red,stroke:blue
+    B --> C{Decision}
+    C -->|One| D[Result one]
+    C -->|Two| E[Result two]
+```
