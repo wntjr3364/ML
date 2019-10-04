@@ -56,3 +56,7 @@ style A fill:red,stroke:blue
     C -->|One| D[Result one]
     C -->|Two| E[Result two]
 ```
+
+```python
+def name(col):
+    return col
